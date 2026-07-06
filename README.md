@@ -1,5 +1,5 @@
-# Flex case -  nRF SlimeVR 
-Flex Case is a 3D printable case design for stacked ProMicro nrf52840 based SlimeVR trackers that can accommodate a large 250mAh battery without sacrificing comfort, utilizing Heat-set inserts for increased repairability and a flexible TPU bridge for a comfier fit! 
+# FlexCase -  nRF SlimeVR 
+FlexCase is a 3D printable case design for stacked ProMicro nrf52840 based SlimeVR trackers that can accommodate a large 250mAh battery without sacrificing comfort, utilizing Heat-set inserts for increased repairability and a flexible TPU bridge for a comfier fit! 
 
 In addition, space is provided under the ProMicro as well to allow soldering from under the ProMicro. I advise you to read through the whole README before starting. 
 
