@@ -54,6 +54,7 @@ Cut 2 pieces of Velcro and tape them to the back. Your trackers are now ready to
 
 ## Notes
 - Depending on your printer and filament some sanding is required. 
-- Ive designed the cases so that the ProMicro clicks in and should not move on its own, however if you want to make sure it stays you can use some double sided tape.
+- Ive designed the cases so that the ProMicro clicks in and should not move on its own, however if you want to make sure it stays you can use some double sided tape
+- Special thanks to the SlimeVR team for making this possible and @itsJensin for the inspiration!
 
 
