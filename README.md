@@ -29,7 +29,7 @@ In addition, space is provided under the ProMicro as well to allow soldering fro
 
 ## Assembly
 ### Soldering 
-Refer to the official SlimeVR docs (https://docs.slimevr.dev/smol-slimes/hardware/smol-tracker.html) for soldering your ProMicros. Beware that for your ProMicros to fit this case, the IMU Breakout board + ProMicro together should not exceed 4mm in height. There should also be enough space for the antennae wire to be routed next to the IMU as shown in the pictures.
+Refer to the official SlimeVR docs (https://docs.slimevr.dev/smol-slimes/hardware/smol-tracker.html) for soldering your ProMicros. Beware that for your ProMicros to fit this case, the IMU Breakout board + ProMicro together should not exceed 5mm in height. There should also be enough space for the antennae wire to be routed next to the IMU as shown in the pictures.
 
 Note: Be careful not to short the components near the buttons if the button housing is made of metal. 
 
