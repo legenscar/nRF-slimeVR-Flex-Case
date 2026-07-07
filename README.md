@@ -34,7 +34,7 @@ Refer to the official SlimeVR docs (https://docs.slimevr.dev/smol-slimes/hardwar
 Note: Be careful not to short the components near the buttons if the button housing is made of metal. 
 
 ### Printing
-For each tracker you will need 5 printed parts. The parts for the cases (4 per tracker) are to be printed with a hard material (PLA, PETG etc.) while the TPU bridge should, as the name suggests, be printed with a flexible material (TPU 95A etc.). While printing, make sure to enable supports. 
+For each tracker you will need 5 printed parts. The parts for the cases (4 per tracker) are to be printed with a hard material (PLA, PETG etc.) while the TPU bridge should, as the name suggests, be printed with a flexible material (TPU 95A, 68D etc.). While printing, make sure to enable supports. 
 
 ### Assembling
 First, insert the heat inserts into the case, 2 on each side of one tracker (left one is for the battery, right one for the ProMicro).
