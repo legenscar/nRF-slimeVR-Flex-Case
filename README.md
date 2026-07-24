@@ -1,5 +1,5 @@
 # FlexCase -  nRF SlimeVR 
-FlexCase is a 3D printable case design for stacked ProMicro nrf52840 based SlimeVR trackers that can accommodate a large 250mAh battery without sacrificing comfort, utilizing Heat-set inserts for increased repairability. At only 8x36x70mm and with a flexible TPU bridge, you should only feel the straps! (ignore the bad handwriting please)
+FlexCase is a 3D printable case design for stacked ProMicro nrf52840 based SlimeVR trackers that utilizing Heat-set inserts for increased repairability. At only 8x36x70mm and with a flexible TPU bridge, you should only feel the straps! (ignore the bad handwriting please)
 
 <img width="1706" height="1280" alt="3 trackers" src="https://github.com/user-attachments/assets/94cf58ff-a692-4800-9ecd-ff261550cc4a" />
 
@@ -20,7 +20,7 @@ In addition, space is provided under the ProMicro as well to allow soldering fro
 - 4x 5x4xM3 (length x outer diameter x inner diameter) brass heat inserts
 - 4x 6mm M3 Flathead screws
 - 5x 3D printed parts
-- 1x 3.7V Lipo battery (smaller than 6x17x31mm) with wires longer than 60mm
+- 1x 3.7V Lipo battery (smaller than 5x17x31mm) with wires longer than 60mm
 - 1x ProMicro nRF52840
 - 1x IMU of your choice
 - 1x 2-pin button
