@@ -15,7 +15,7 @@ In addition, space is provided under the ProMicro as well to allow soldering fro
 - Kapton tape
 - access to a 3D printer or 3D printing service
 - multimeter (optional)
-- pliers (optional)
+- tweezers (optional)
 ### per tracker:
 - 4x 5x4xM3 (length x outer diameter x inner diameter) brass heat inserts
 - 4x 6mm M3 Flathead screws
