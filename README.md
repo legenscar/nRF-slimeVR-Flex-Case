@@ -43,7 +43,7 @@ First, insert the heat inserts into the case, 2 on each side of one tracker (lef
 
 Now its time to solder the battery to the ProMicros. Cut the red wire to 60mm and the black wire to 55mm. Pull the wires through the little opening in the TPU bridge and solder them to the ProMicro. Keep the TPU bridge away while doing so to avoid damage. 
 
-Now you can fit everything into the case! While closing the case, make sure not to pinch any wires. Pliers will be very useful here! Screw everything together and youre done!
+Now you can fit everything into the case! While closing the case, make sure not to pinch any wires. Tweezers will be very useful here! Screw everything together and youre done!
 
 <img width="1706" height="1280" alt="internal" src="https://github.com/user-attachments/assets/a758f815-1675-4a66-ae6f-d695f3ac584e" />
 <img width="1706" height="1280" alt="finished tracker" src="https://github.com/user-attachments/assets/ae83fd2c-84cb-4bc6-a7c0-e57d9f2d794a" />
